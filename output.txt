@@ -1,0 +1,507 @@
+Where would you like the array (not the Multi-Stack) to start?
+You entered:         -11
+Where would you like the array (not the Multi-Stack) to end?
+You entered:          60
+Where (in the array) do you want the Multi-Stack to start?
+You entered:           4
+How many spaces would you like to reserve for your Multi-Stack?
+You entered:          23
+The end of the Multi-Stack is located at :         27
+So your Multi-Stack space will be from 4 to 27.
+How many stacks do you want to make?
+You entered:           4
+Base[1] =  4   Top[1] =  4   OLDTop[1] =  4
+Base[2] =  9   Top[2] =  9   OLDTop[2] =  9
+Base[3] = 15   Top[3] = 15   OLDTop[3] = 15
+Base[4] = 21   Top[4] = 21   OLDTop[4] = 21
+Base[ 5] = 27
+
+Now let's begin record entry/deletion.
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  4
+What would you like to save to stack #4?
+You entered:  ZHOU
+Inserting ZHOU into stack #4
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  4
+What would you like to save to stack #4?
+You entered:  WEI
+Inserting WEI into stack #4
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  BURRIS
+Inserting BURRIS into stack #1
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  ZHOU
+Inserting ZHOU into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  SHASHIDHAR
+Inserting SHASHIDHAR into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  3
+What would you like to save to stack #3?
+You entered:  DEERING
+Inserting DEERING into stack #3
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  AN
+Inserting AN into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  DEERING
+Inserting DEERING into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  3
+What would you like to save to stack #3?
+You entered:  LESTER
+Inserting LESTER into stack #3
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  YANG
+Inserting YANG into stack #1
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  3
+What would you like to save to stack #3?
+You entered:  SMITH
+Inserting SMITH into stack #3
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  WEI
+Inserting WEI into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  ZHOU
+Inserting ZHOU into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  ARCOS
+Inserting ARCOS into stack #2
+
+
+That stack is full...Reallocating stack space
+
+Base, Top, and OLDTop BEFORE repacking.
+Base[1] =  4   Top[1] =  6  OLDTop[1] =  4
+Base[2] =  9   Top[2] = 16  OLDTop[2] =  9
+Base[3] = 15   Top[3] = 18  OLDTop[3] = 15
+Base[4] = 21   Top[4] = 23  OLDTop[4] = 21
+
+Multi-Stack contents BEFORE repacking.
+Stack#1 | Base =  4   Top =  6 | Currently contains...
+BURRIS at  5   YANG at  6   
+
+Stack#2 | Base =  9   Top = 16 | Currently contains...
+ZHOU at 10   SHASHIDHAR at 11   AN at 12   DEERING at 13   WEI at 14   ZHOU at 15   
+
+Stack#3 | Base = 15   Top = 18 | Currently contains...
+DEERING at 16   LESTER at 17   SMITH at 18   
+
+Stack#4 | Base = 21   Top = 23 | Currently contains...
+ZHOU at 22   WEI at 23   
+
+
+Base, Top, and OLDTop AFTER repacking. (Reallocate and MoveStack are done) OLDTop[j] = Top[j] to prepare for next overflow
+Base[1] =  4   Top[1] =  6  OLDTop[1] =  6
+Base[2] =  7   Top[2] = 14  OLDTop[2] = 14
+Base[3] = 18   Top[3] = 21  OLDTop[3] = 21
+Base[4] = 23   Top[4] = 25  OLDTop[4] = 25
+
+Multi-Stack contents AFTER repacking.
+Stack#1 | Base =  4   Top =  6 | Currently contains...
+BURRIS at  5   YANG at  6   
+
+Stack#2 | Base =  7   Top = 14 | Currently contains...
+ZHOU at  8   SHASHIDHAR at  9   AN at 10   DEERING at 11   WEI at 12   ZHOU at 13   ARCOS at 14   
+
+Stack#3 | Base = 18   Top = 21 | Currently contains...
+DEERING at 19   LESTER at 20   SMITH at 21   
+
+Stack#4 | Base = 23   Top = 25 | Currently contains...
+ZHOU at 24   WEI at 25   
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+Which stack would you like to delete from?
+You entered:          2
+Deleting at stack#  2
+You just deleted ARCOS
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  WEI
+Inserting WEI into stack #1
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  RABIEH
+Inserting RABIEH into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+Which stack would you like to delete from?
+You entered:          1
+Deleting at stack#  1
+You just deleted WEI
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+Which stack would you like to delete from?
+You entered:          1
+Deleting at stack#  1
+You just deleted YANG
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  SONG
+Inserting SONG into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  CHO
+Inserting CHO into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+Which stack would you like to delete from?
+You entered:          3
+Deleting at stack#  3
+You just deleted SMITH
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  VAROL
+Inserting VAROL into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  3
+What would you like to save to stack #3?
+You entered:  KARABIYIK
+Inserting KARABIYIK into stack #3
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  COOPER
+Inserting COOPER into stack #1
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  SMITH
+Inserting SMITH into stack #1
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  MCGUIRE
+Inserting MCGUIRE into stack #1
+
+
+That stack is full...Reallocating stack space
+
+Base, Top, and OLDTop BEFORE repacking.
+Base[1] =  4   Top[1] =  8  OLDTop[1] =  6
+Base[2] =  7   Top[2] = 17  OLDTop[2] = 14
+Base[3] = 18   Top[3] = 21  OLDTop[3] = 21
+Base[4] = 23   Top[4] = 25  OLDTop[4] = 25
+
+Multi-Stack contents BEFORE repacking.
+Stack#1 | Base =  4   Top =  8 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   
+
+Stack#2 | Base =  7   Top = 17 | Currently contains...
+ZHOU at  8   SHASHIDHAR at  9   AN at 10   DEERING at 11   WEI at 12   ZHOU at 13   RABIEH at 14   SONG at 15   CHO at 16   VAROL at 17   
+
+Stack#3 | Base = 18   Top = 21 | Currently contains...
+DEERING at 19   LESTER at 20   KARABIYIK at 21   
+
+Stack#4 | Base = 23   Top = 25 | Currently contains...
+ZHOU at 24   WEI at 25   
+
+
+Base, Top, and OLDTop AFTER repacking. (Reallocate and MoveStack are done) OLDTop[j] = Top[j] to prepare for next overflow
+Base[1] =  4   Top[1] =  8  OLDTop[1] =  8
+Base[2] =  9   Top[2] = 19  OLDTop[2] = 19
+Base[3] = 21   Top[3] = 24  OLDTop[3] = 24
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents AFTER repacking.
+Stack#1 | Base =  4   Top =  8 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   
+
+Stack#2 | Base =  9   Top = 19 | Currently contains...
+ZHOU at 10   SHASHIDHAR at 11   AN at 12   DEERING at 13   WEI at 14   ZHOU at 15   RABIEH at 16   SONG at 17   CHO at 18   VAROL at 19   
+
+Stack#3 | Base = 21   Top = 24 | Currently contains...
+DEERING at 22   LESTER at 23   KARABIYIK at 24   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  3
+What would you like to save to stack #3?
+You entered:  NAJAR
+Inserting NAJAR into stack #3
+
+
+That stack is full...Reallocating stack space
+
+Base, Top, and OLDTop BEFORE repacking.
+Base[1] =  4   Top[1] =  8  OLDTop[1] =  8
+Base[2] =  9   Top[2] = 19  OLDTop[2] = 19
+Base[3] = 21   Top[3] = 25  OLDTop[3] = 24
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents BEFORE repacking.
+Stack#1 | Base =  4   Top =  8 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   
+
+Stack#2 | Base =  9   Top = 19 | Currently contains...
+ZHOU at 10   SHASHIDHAR at 11   AN at 12   DEERING at 13   WEI at 14   ZHOU at 15   RABIEH at 16   SONG at 17   CHO at 18   VAROL at 19   
+
+Stack#3 | Base = 21   Top = 25 | Currently contains...
+DEERING at 22   LESTER at 23   KARABIYIK at 24   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+
+Base, Top, and OLDTop AFTER repacking. (Reallocate and MoveStack are done) OLDTop[j] = Top[j] to prepare for next overflow
+Base[1] =  4   Top[1] =  8  OLDTop[1] =  8
+Base[2] =  8   Top[2] = 18  OLDTop[2] = 18
+Base[3] = 18   Top[3] = 22  OLDTop[3] = 22
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents AFTER repacking.
+Stack#1 | Base =  4   Top =  8 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   
+
+Stack#2 | Base =  8   Top = 18 | Currently contains...
+ZHOU at  9   SHASHIDHAR at 10   AN at 11   DEERING at 12   WEI at 13   ZHOU at 14   RABIEH at 15   SONG at 16   CHO at 17   VAROL at 18   
+
+Stack#3 | Base = 18   Top = 22 | Currently contains...
+DEERING at 19   LESTER at 20   KARABIYIK at 21   NAJAR at 22   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  AN
+Inserting AN into stack #2
+
+
+That stack is full...Reallocating stack space
+
+Base, Top, and OLDTop BEFORE repacking.
+Base[1] =  4   Top[1] =  8  OLDTop[1] =  8
+Base[2] =  8   Top[2] = 19  OLDTop[2] = 18
+Base[3] = 18   Top[3] = 22  OLDTop[3] = 22
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents BEFORE repacking.
+Stack#1 | Base =  4   Top =  8 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   
+
+Stack#2 | Base =  8   Top = 19 | Currently contains...
+ZHOU at  9   SHASHIDHAR at 10   AN at 11   DEERING at 12   WEI at 13   ZHOU at 14   RABIEH at 15   SONG at 16   CHO at 17   VAROL at 18   
+
+Stack#3 | Base = 18   Top = 22 | Currently contains...
+DEERING at 19   LESTER at 20   KARABIYIK at 21   NAJAR at 22   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+
+Base, Top, and OLDTop AFTER repacking. (Reallocate and MoveStack are done) OLDTop[j] = Top[j] to prepare for next overflow
+Base[1] =  4   Top[1] =  8  OLDTop[1] =  8
+Base[2] =  8   Top[2] = 19  OLDTop[2] = 19
+Base[3] = 20   Top[3] = 24  OLDTop[3] = 24
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents AFTER repacking.
+Stack#1 | Base =  4   Top =  8 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   
+
+Stack#2 | Base =  8   Top = 19 | Currently contains...
+ZHOU at  9   SHASHIDHAR at 10   AN at 11   DEERING at 12   WEI at 13   ZHOU at 14   RABIEH at 15   SONG at 16   CHO at 17   VAROL at 18   AN at 19   
+
+Stack#3 | Base = 20   Top = 24 | Currently contains...
+DEERING at 21   LESTER at 22   KARABIYIK at 23   NAJAR at 24   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  ZHOU
+Inserting ZHOU into stack #1
+
+
+That stack is full...Reallocating stack space
+
+Base, Top, and OLDTop BEFORE repacking.
+Base[1] =  4   Top[1] =  9  OLDTop[1] =  8
+Base[2] =  8   Top[2] = 19  OLDTop[2] = 19
+Base[3] = 20   Top[3] = 24  OLDTop[3] = 24
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents BEFORE repacking.
+Stack#1 | Base =  4   Top =  9 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   
+
+Stack#2 | Base =  8   Top = 19 | Currently contains...
+ZHOU at  9   SHASHIDHAR at 10   AN at 11   DEERING at 12   WEI at 13   ZHOU at 14   RABIEH at 15   SONG at 16   CHO at 17   VAROL at 18   AN at 19   
+
+Stack#3 | Base = 20   Top = 24 | Currently contains...
+DEERING at 21   LESTER at 22   KARABIYIK at 23   NAJAR at 24   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+
+Base, Top, and OLDTop AFTER repacking. (Reallocate and MoveStack are done) OLDTop[j] = Top[j] to prepare for next overflow
+Base[1] =  4   Top[1] =  9  OLDTop[1] =  9
+Base[2] =  9   Top[2] = 20  OLDTop[2] = 20
+Base[3] = 20   Top[3] = 24  OLDTop[3] = 24
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents AFTER repacking.
+Stack#1 | Base =  4   Top =  9 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   ZHOU at  9   
+
+Stack#2 | Base =  9   Top = 20 | Currently contains...
+ZHOU at 10   SHASHIDHAR at 11   AN at 12   DEERING at 13   WEI at 14   ZHOU at 15   RABIEH at 16   SONG at 17   CHO at 18   VAROL at 19   AN at 20   
+
+Stack#3 | Base = 20   Top = 24 | Currently contains...
+DEERING at 21   LESTER at 22   KARABIYIK at 23   NAJAR at 24   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+Which stack would you like to delete from?
+You entered:          2
+Deleting at stack#  2
+You just deleted AN
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  2
+What would you like to save to stack #2?
+You entered:  DEERING
+Inserting DEERING into stack #2
+
+Press 'I' to Insert a record, or 'D' to Delete a record. Press 'Q' at any time to quit record entry/deletion.
+You entered 'I'.
+Which stack would you like to save the record to?
+You entered:  1
+What would you like to save to stack #1?
+You entered:  BURRIS
+Inserting BURRIS into stack #1
+
+
+That stack is full...Reallocating stack space
+
+Base, Top, and OLDTop BEFORE repacking.
+Base[1] =  4   Top[1] = 10  OLDTop[1] =  9
+Base[2] =  9   Top[2] = 20  OLDTop[2] = 20
+Base[3] = 20   Top[3] = 24  OLDTop[3] = 24
+Base[4] = 24   Top[4] = 26  OLDTop[4] = 26
+
+Multi-Stack contents BEFORE repacking.
+Stack#1 | Base =  4   Top = 10 | Currently contains...
+BURRIS at  5   COOPER at  6   SMITH at  7   MCGUIRE at  8   ZHOU at  9   
+
+Stack#2 | Base =  9   Top = 20 | Currently contains...
+ZHOU at 10   SHASHIDHAR at 11   AN at 12   DEERING at 13   WEI at 14   ZHOU at 15   RABIEH at 16   SONG at 17   CHO at 18   VAROL at 19   DEERING at 20   
+
+Stack#3 | Base = 20   Top = 24 | Currently contains...
+DEERING at 21   LESTER at 22   KARABIYIK at 23   NAJAR at 24   
+
+Stack#4 | Base = 24   Top = 26 | Currently contains...
+ZHOU at 25   WEI at 26   
+
+Memory has fallen below 5% of the original space allocation...Program terminating.
